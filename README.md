@@ -36,11 +36,11 @@ Once 'App listening on PORT: 3000' displays in your terminal, open your browser 
 
 ### Progressive Budget Main Page
 
-![Progressive-Budget-Main](https://github.com/suzygiv/Fitness-Tracker/blob/main/public/assets/Fitness-Tracker-Main.PNG)
+![Progressive-Budget-Main](https://github.com/suzygiv/Progressive-Budget/blob/main/public/assets/Progressive-Budget.PNG)
 
-### Exercise Type
+### Progressive Budget Offline
 
-![Progressive-Budget-Offline](https://github.com/suzygiv/Fitness-Tracker/blob/main/public/assets/Workout-Type.PNG)
+![Progressive-Budget-Offline](https://github.com/suzygiv/Progressive-Budget/blob/main/public/assets/Progressive-Budget-Offline.PNG)
 
 
 ## License
