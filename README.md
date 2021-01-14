@@ -2,7 +2,7 @@
 
 ![License](https://img.shields.io/badge/License-mit-blue.svg "License Badge")
 
-## Application 
+## Heroku 
 To view the Progressive Budget application, click here:
 
 
@@ -11,7 +11,7 @@ To view the Progressive Budget application, click here:
 A Budget Tracker application that allows the user to add expenses and deposits to their budget with or without data/internet connection.
 
 ## Table of Contents
-- [Application](#Application)
+- [Herkou](#Heroku)
 - [Description](#Description)
 - [Installation](#Installation)
 - [Usage](#Usage)
