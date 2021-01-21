@@ -24,7 +24,7 @@ A Budget Tracker application that allows the user to add expenses and deposits t
     `npm install mongoose` `npm install express` `npm install compression` `npm install lite-server` `npm install morgan`
 
 ## Usage
-Run the following command at the root of your project and answer the prompted questions:
+Run the following command at the root of your project:
 
     `node server.js`
 
